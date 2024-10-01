@@ -13,6 +13,7 @@ How well those variables describe the bike demands
 # Technologies Used
 
 Pandas - version 1.3.4
+
 NumPy - version 1.20.3
 Seaborn - version 0.11.2
 MatplotLib - version 3.4.3
