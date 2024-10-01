@@ -15,11 +15,17 @@ How well those variables describe the bike demands
 Pandas - version 1.3.4
 
 NumPy - version 1.20.3
+
 Seaborn - version 0.11.2
+
 MatplotLib - version 3.4.3
+
 Plotly - version 5.7.0
+
 statsmodels - version 0.12.2
+
 sklearn - version 0.24.2
+
 scipy - version 1.7.1
 
 # Conclusion
